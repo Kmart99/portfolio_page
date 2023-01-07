@@ -292,6 +292,21 @@ nav > ul > li > a {
   margin-left: 20px;
 }
 
+.before-after {
+  display: flex;
+  align-items: center;
+}
+
+.gif-container {
+  background-color: black;
+}
+
+.phone-img-container {
+  max-width: 500px;
+  margin: 0 auto;
+  
+}
+
 
 /* ==============================
 Medium devices (640px and larger)
